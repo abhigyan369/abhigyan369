@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhigyan369, 2nd year ug
+- 👋 Hi, I’m @abhigyan369, pre-final year student
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Next.js
 - 🌱 I’m currently learning data science and enhancing my problem solving skills
 - 💞️ I’m looking to collaborate on data science project

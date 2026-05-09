@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @abhigyan369, pre-final year student<br>👀 I’m interested in Data Science, Machine Learning, Deep Learning, Next.js<br>🌱 I’m currently learning data science and enhancing my problem solving skills<br>💞️ I’m looking to collaborate on data science project<br>📫 How to reach me : abhigyank77@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: love maths and cs
+👋 Hi, I’m @abhigyan369, pre-final year student, PERN Stack Devloper<br>👀 I’m interested in Data Science, Machine Learning, Deep Learning, Next.js<br>🌱 I’m currently learning data science and enhancing my problem solving skills<br>💞️ I’m looking to collaborate on data science project<br>📫 How to reach me : abhigyank77@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: love maths and cs
 
 
 ## 🌐 Socials:
